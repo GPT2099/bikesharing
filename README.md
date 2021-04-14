@@ -6,3 +6,6 @@ The purpose of this analysis is to visualize the NYC Citi Bike data to determine
 * [CitiBike Trip Data](https://s3.amazonaws.com/tripdata/index.html)
 * [Tableau Story of Bike Sharing](https://public.tableau.com/profile/gordon.p.thompson#!/vizhome/bikesharingchallenge/StoryofBikeSharing?publish=yes)
 * Python, Tableau, Jupyter Notebook
+
+## Results 
+![](Tableau_images/Subscribers_vs_Customers.PNG)
