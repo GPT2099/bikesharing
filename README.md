@@ -13,3 +13,9 @@ The purpose of this analysis is to visualize the NYC Citi Bike data to determine
 This pie chart shows the total number of rides in the month of August and breaks them down into Subscribers vs customers. 80% of the total rides are by subscribers that use bikes on a regular basis. 80% is a high percentage and suggests that bikes are very popular in NYC. 
 
 ![](Tableau_images/Checkout_Times_for_Users.PNG)
+
+The average ride for the majority of our users is 15 minutes. This means that bikes can be turned over atleast 3x per hour. 
+
+![](Tableau_images/Checkout_Times_by_Gender.PNG)
+
+This visualization shows that a a high percentage of our riders are male. This helps the company keep a majority of bikes geared towards men. 
