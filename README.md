@@ -25,5 +25,4 @@ This visualization shows that a high percentage of our riders are male. This wil
 This heat map shows that the patterns of men and women are roughly the same for times of the week but men rent more frequently. 
 
 ![](Tableau_images/Trips_by_Weekday_per_Hour.PNG)
-
 The heat map above shows a pattern of busy weekday times being 6am-8am and 5pm-7pm, with the busiest days being Monday and Thursday. This data suggests our users are commuting to and from work.  
