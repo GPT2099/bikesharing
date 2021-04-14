@@ -38,7 +38,7 @@ Our last visualization shows the most popular places to end a ride and leave a b
 
 ## Summary 
 
-This analysis concludes that Citi Bike sharing is certainly popular and profitable in the city of New York. New York clearly has a large subscriber base routinely commuting to and from work on the weekdays. Future analysis would need to focus on the Des Moines Iowa. Does this potential area have enough workers interested in commute to work on a bike? Do enough of these workers live within reasonable travel distance to their jobs? Can biking be as convenient here as it is in NYC? The next step is to gather data and create visualizations to answer these questions.  
+This analysis concludes that Citi Bike sharing is certainly popular and profitable in the city of New York. New York clearly has a large subscriber base routinely commuting to and from work on the weekdays. Future analysis would need to focus on Des Moines Iowa. Does this potential area have enough workers interested in commuting to work on a bike? Do enough of these workers live within reasonable travel distance to their jobs? Can biking be as convenient here as it is in NYC? The next step is to gather data and create visualizations to answer these questions.  
 
 
 
