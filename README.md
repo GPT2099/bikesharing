@@ -18,4 +18,4 @@ The average ride for the majority of our users is 15 minutes. This means that bi
 
 ![](Tableau_images/Checkout_Times_by_Gender.PNG)
 
-This visualization shows that a a high percentage of our riders are male. This helps the company keep a majority of bikes geared towards men. 
+This visualization shows that a high percentage of our riders are male. This will help the company keep a majority of bikes fitted and geared towards men. 
