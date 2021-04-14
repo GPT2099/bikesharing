@@ -31,3 +31,10 @@ The heat map above shows a pattern of busy weekday times being 6am-8am and 5pm-7
 ![](Tableau_images/User_Trips_by_Gender_by_Weekday.PNG)
 
 Above shows that the majority of subscribers are men and that weekdays are the most popular days. 
+
+![](Tableau_images/Top_Ending_Locations.PNG)
+
+Our last visualization shows the most popular places to end a ride and leave a bike. This will help our recovery and maintanence crews plan for the best pickup routes. 
+
+## Summary 
+
